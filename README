@@ -115,4 +115,6 @@ If you install elsewhere then you will need to update spell_check.rb in the plug
 
 FCKConfig.SpellChecker = 'SpellerPages';
 
+(Forked By Prashanth S Nayak)
+
 
